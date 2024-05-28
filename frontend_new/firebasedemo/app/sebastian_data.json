@@ -1,0 +1,4709 @@
+{
+  "Dorms": {
+    "ISR": {
+      "1stFloor": {
+        "g7n86YA00mUvlqFpsCMUwKN1X0U2": {
+          "1712606055": [
+            {
+              "litPerMin": 23,
+              "timestamp": 1712606049
+            },
+            {
+              "litPerMin": 65,
+              "timestamp": 1712606052
+            },
+            {
+              "batteryVolt": 3.840732601,
+              "litPerMin": 4,
+              "timestamp": 1712606055
+            }
+          ],
+          "1712711458": [
+            {
+              "litPerMin": 24,
+              "timestamp": 1712710860
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712710863
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712710866
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712710869
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712710872
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712710875
+            },
+            {
+              "litPerMin": 79,
+              "timestamp": 1712710879
+            },
+            {
+              "litPerMin": 77,
+              "timestamp": 1712710882
+            },
+            {
+              "litPerMin": 78,
+              "timestamp": 1712710885
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712710888
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710891
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710894
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710897
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710900
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710903
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710906
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710910
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710913
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710916
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710919
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710922
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710925
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710928
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710931
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712710934
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712710937
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710941
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710944
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710947
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710950
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712710953
+            },
+            {
+              "litPerMin": 77,
+              "timestamp": 1712710956
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712710959
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710962
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710965
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710968
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712710972
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712710975
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712710978
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712710981
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712710984
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710987
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710990
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710993
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712710996
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712710999
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711003
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711006
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711009
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712711012
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711015
+            },
+            {
+              "litPerMin": 77,
+              "timestamp": 1712711018
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711021
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711024
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711027
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711030
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711034
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711037
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711040
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712711043
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711046
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711049
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711052
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711055
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712711058
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712711061
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711065
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711068
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712711071
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711074
+            },
+            {
+              "litPerMin": 78,
+              "timestamp": 1712711077
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711080
+            },
+            {
+              "litPerMin": 78,
+              "timestamp": 1712711083
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711086
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712711089
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712711092
+            },
+            {
+              "litPerMin": 77,
+              "timestamp": 1712711096
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711099
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711102
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711105
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711108
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711111
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711114
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711117
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711120
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711123
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711127
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711130
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711133
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711136
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711139
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711142
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711145
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711148
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711151
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711154
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711158
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711161
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711164
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711167
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711170
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711173
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711176
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711179
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711182
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711185
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711189
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711192
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711195
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711198
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711201
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711204
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711207
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711210
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711213
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711216
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711220
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711223
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711226
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711229
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711232
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711235
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711238
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711241
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711244
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711247
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711251
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711254
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711257
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711260
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712711263
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711266
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711269
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711272
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711275
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711278
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711282
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711285
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711288
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711291
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711294
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711297
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711300
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711303
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711306
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711309
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711313
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711316
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711319
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711322
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711325
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711328
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711331
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711334
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711337
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711340
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711344
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711347
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711350
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711353
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711356
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711359
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711362
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711365
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711368
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711371
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711375
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712711378
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711381
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711384
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711387
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712711390
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711393
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711396
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711399
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711402
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712711406
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711409
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711412
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712711415
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711418
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711421
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711424
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711427
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711430
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711433
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711437
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711440
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711443
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711446
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711449
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712711452
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711455
+            },
+            {
+              "batteryVolt": 3.790769231,
+              "litPerMin": 54,
+              "timestamp": 1712711458
+            }
+          ],
+          "1712711658": [
+            {
+              "litPerMin": 24,
+              "timestamp": 1712711360
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711363
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711366
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711369
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711372
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711376
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711379
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711382
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711385
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711388
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711391
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711394
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711397
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711400
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711403
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711407
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711410
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711413
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711416
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711419
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711422
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711425
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711428
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711431
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711434
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711438
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711441
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711444
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711447
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711450
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711453
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711456
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711459
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711462
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711465
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711469
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711472
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711475
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711478
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711481
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711484
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711487
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711490
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711493
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711496
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711500
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711503
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711506
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711509
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711512
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711515
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711518
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711521
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711524
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711527
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711531
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711534
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711537
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711540
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711543
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711546
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711549
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711552
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711555
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711558
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711562
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711565
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711568
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711571
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711574
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711577
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711580
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711583
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711586
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711589
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711593
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712711596
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711599
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711602
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711605
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711608
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711611
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711614
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711617
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711620
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711624
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711627
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711630
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712711633
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711636
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712711639
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712711642
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711645
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712711648
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712711651
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712711655
+            },
+            {
+              "batteryVolt": 3.795604396,
+              "litPerMin": 65,
+              "timestamp": 1712711658
+            }
+          ],
+          "1712717380": [
+            {
+              "litPerMin": 33,
+              "timestamp": 1712716366
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712716369
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712716372
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712716375
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712716379
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712716382
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712716385
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712716388
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716391
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712716394
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712716397
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712716400
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716403
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716406
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712716410
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716413
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716416
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716419
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712716422
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716425
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716428
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716431
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716434
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716437
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716441
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716444
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716447
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716450
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716453
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716456
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716459
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716462
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716465
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716468
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716472
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716475
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716478
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716481
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716484
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716487
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716490
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716493
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716496
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716499
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716503
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716506
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716509
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716512
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716515
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716518
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716521
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716524
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716527
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716530
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716534
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716537
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716540
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716543
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716546
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716549
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716552
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716555
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716558
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716561
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716565
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716568
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716571
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716574
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716577
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716580
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716583
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716586
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716589
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716592
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716596
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716599
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716602
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716605
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716608
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716611
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716614
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716617
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716620
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716623
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716627
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716630
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716633
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716636
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716639
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716642
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716645
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716648
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716651
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716654
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716658
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716661
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716664
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716667
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716670
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716673
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716676
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716679
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716682
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716685
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716689
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716692
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716695
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716698
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716701
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716704
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716707
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716710
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716713
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716716
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716720
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716723
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716726
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716729
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716732
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716735
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716738
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716741
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716744
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712716747
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712716751
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716754
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716757
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716760
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716763
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716766
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716769
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716772
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716775
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716778
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716782
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716785
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716788
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716791
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716794
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716797
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716800
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712716803
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716806
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716809
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716813
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716816
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716819
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716822
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716825
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716828
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716831
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716834
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716837
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716840
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716844
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716847
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716850
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716853
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716856
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712716859
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716862
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716865
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716868
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716871
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716875
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716878
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716881
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716884
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716887
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716890
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716893
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716896
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716899
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716902
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716906
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716909
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716912
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716915
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716918
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716921
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716924
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716927
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716930
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712716933
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716937
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716940
+            },
+            {
+              "litPerMin": 66,
+              "timestamp": 1712716943
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716946
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716949
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716952
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716955
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716958
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712716961
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712716964
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716968
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712716971
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716974
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716977
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716980
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716983
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716986
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716989
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716992
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712716995
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712716999
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717002
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717005
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717008
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717011
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717014
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717017
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717020
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717023
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717026
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717030
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717033
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717036
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717039
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717042
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717045
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717048
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717051
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717054
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712717057
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717061
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717064
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717067
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717070
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717073
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712717076
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712717079
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717082
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717085
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717088
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717092
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717095
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717098
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717101
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717104
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717107
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717110
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717113
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717116
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712717119
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717123
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712717126
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717129
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717132
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717135
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712717138
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717141
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712717144
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712717147
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717150
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717154
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717157
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712717160
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717163
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717166
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717169
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717172
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717175
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717178
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717181
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717185
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717188
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717191
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717194
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712717197
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712717200
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717203
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717206
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717209
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712717212
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717216
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717219
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717222
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712717225
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712717228
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717231
+            },
+            {
+              "litPerMin": 66,
+              "timestamp": 1712717234
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712717237
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717240
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717243
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717247
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717250
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717253
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717256
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717259
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717262
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717265
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717268
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717271
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717274
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717278
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712717281
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717284
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717287
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717290
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717293
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717296
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717299
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717302
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717305
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717309
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717312
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712717315
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717318
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717321
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712717324
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717327
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717330
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717333
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717336
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717340
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717343
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717346
+            },
+            {
+              "litPerMin": 34,
+              "timestamp": 1712717349
+            },
+            {
+              "litPerMin": 0,
+              "timestamp": 1712717352
+            },
+            {
+              "litPerMin": 0,
+              "timestamp": 1712717355
+            },
+            {
+              "litPerMin": 0,
+              "timestamp": 1712717358
+            },
+            {
+              "litPerMin": 49,
+              "timestamp": 1712717361
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717364
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717367
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717371
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712717374
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712717377
+            },
+            {
+              "batteryVolt": 3.776263736,
+              "litPerMin": 21,
+              "timestamp": 1712717380
+            }
+          ],
+          "1712734442": [
+            {
+              "batteryVolt": 3.798827839,
+              "litPerMin": 8815,
+              "timestamp": 1712734442
+            }
+          ],
+          "1712759996": [
+            {
+              "litPerMin": 26,
+              "timestamp": 1712759218
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712759221
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759224
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712759227
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759230
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759233
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759237
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712759240
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759243
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712759246
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759249
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759252
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712759255
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759258
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759261
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759264
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759268
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759271
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759274
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759277
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759280
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759283
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759286
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759289
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759292
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759295
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759299
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759302
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759305
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759308
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759311
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759314
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759317
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759320
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759323
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759326
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759330
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759333
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759336
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759339
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759342
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759345
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759348
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759351
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759354
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759357
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759361
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759364
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759367
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759370
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759373
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759376
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759379
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759382
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759385
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759388
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759392
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759395
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759398
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759401
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759404
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759407
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759410
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759413
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759416
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759419
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759423
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759426
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759429
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759432
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759435
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759438
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759441
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759444
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759447
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759450
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759454
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759457
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759460
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759463
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759466
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759469
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759472
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759475
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759478
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759481
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759485
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759488
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759491
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759494
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759497
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759500
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759503
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759506
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759509
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759512
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759516
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759519
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759522
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759525
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759528
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759531
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759534
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759537
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759540
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759543
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759547
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759550
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759553
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759556
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759559
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759562
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759565
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759568
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759571
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759574
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712759578
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759581
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759584
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759587
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759590
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759593
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759596
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759599
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759602
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759605
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759609
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759612
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759615
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759618
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759621
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759624
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759627
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759630
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759633
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759636
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759640
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759643
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759646
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759649
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759652
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759655
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759658
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759661
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759664
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759667
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759671
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759674
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759677
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759680
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759683
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759686
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759689
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759692
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759695
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759698
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759702
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759705
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759708
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759711
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759714
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759717
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759720
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759723
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759726
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759729
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759733
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759736
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759739
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759742
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759745
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759748
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759751
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759754
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759757
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759760
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759764
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759767
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759770
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759773
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759776
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759779
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759782
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759785
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759788
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759791
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759795
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759798
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759801
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759804
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759807
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759810
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759813
+            },
+            {
+              "litPerMin": 67,
+              "timestamp": 1712759816
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759819
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759822
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759826
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759829
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759832
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759835
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759838
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759841
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759844
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759847
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759850
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759853
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759857
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759860
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759863
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759866
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759869
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759872
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759875
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759878
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759881
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759884
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759888
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759891
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759894
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759897
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759900
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759903
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759906
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759909
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759912
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759915
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759919
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759922
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759925
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712759928
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759931
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759934
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759937
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759940
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759943
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712759946
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759950
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759953
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759956
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759959
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759962
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759965
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759968
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712759971
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759974
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712759977
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712759981
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712759984
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712759987
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759990
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712759993
+            },
+            {
+              "batteryVolt": 3.782710623,
+              "litPerMin": 17,
+              "timestamp": 1712759996
+            }
+          ],
+          "1712821572": [
+            {
+              "litPerMin": 26,
+              "timestamp": 1712821119
+            },
+            {
+              "litPerMin": 76,
+              "timestamp": 1712821122
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821125
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821128
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712821131
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821135
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821138
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821141
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821144
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821147
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821150
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821153
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821156
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821159
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821162
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821166
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821169
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821172
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821175
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821178
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712821181
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821184
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821187
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821190
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821193
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821197
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821200
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821203
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821206
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712821209
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821212
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821215
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712821218
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821221
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821224
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821228
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821231
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821234
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821237
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821240
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821243
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821246
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821249
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712821252
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712821255
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821259
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821262
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712821265
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821268
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821271
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821274
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821277
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821280
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821283
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712821286
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821290
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821293
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821296
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712821299
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821302
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821305
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821308
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821311
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821314
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821317
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821321
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821324
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821327
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821330
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821333
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821336
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821339
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821342
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821345
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712821348
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821352
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821355
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821358
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821361
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821364
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821367
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821370
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821373
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821376
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821379
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821383
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821386
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821389
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821392
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821395
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821398
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712821401
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821404
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821407
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821410
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821414
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821417
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821420
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821423
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821426
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821429
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821432
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821435
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821438
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821441
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821445
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821448
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821451
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821454
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821457
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821460
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821463
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821466
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821469
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821472
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821476
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821479
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821482
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821485
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712821488
+            },
+            {
+              "litPerMin": 74,
+              "timestamp": 1712821491
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821494
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821497
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712821500
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821503
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821507
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821510
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821513
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712821516
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821519
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712821522
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821525
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821528
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821531
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821534
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821538
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712821541
+            },
+            {
+              "litPerMin": 75,
+              "timestamp": 1712821544
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821547
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821550
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821553
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821556
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712821559
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712821562
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821565
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712821569
+            },
+            {
+              "batteryVolt": 3.776263736,
+              "litPerMin": 47,
+              "timestamp": 1712821572
+            }
+          ],
+          "1712826975": [
+            {
+              "batteryVolt": 3.771428571,
+              "litPerMin": 19303,
+              "timestamp": 1712826975
+            }
+          ],
+          "1712901519": [
+            {
+              "litPerMin": 31,
+              "timestamp": 1712901073
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901076
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901079
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901082
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901085
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901089
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901092
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901095
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901098
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901101
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901104
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901107
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901110
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901113
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901116
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901120
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901123
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901126
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901129
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901132
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901135
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901138
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901141
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901144
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901147
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901151
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901154
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901157
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901160
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901163
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901166
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901169
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901172
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901175
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901178
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901182
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901185
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901188
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901191
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901194
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901197
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901200
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901203
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901206
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901209
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901213
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901216
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901219
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901222
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901225
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901228
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901231
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901234
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901237
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901240
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901244
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901247
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901250
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901253
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901256
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901259
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901262
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901265
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901268
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901271
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901275
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901278
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901281
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901284
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901287
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901290
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901293
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901296
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901299
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901302
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901306
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901309
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712901312
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901315
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901318
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901321
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901324
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901327
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712901330
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901333
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901337
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901340
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901343
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901346
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712901349
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901352
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901355
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901358
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901361
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901364
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901368
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901371
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901374
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901377
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901380
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901383
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901386
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901389
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901392
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901395
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901399
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901402
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901405
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901408
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901411
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901414
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901417
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901420
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901423
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901426
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901430
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901433
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901436
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901439
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901442
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901445
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901448
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901451
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901454
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712901457
+            },
+            {
+              "litPerMin": 73,
+              "timestamp": 1712901461
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901464
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901467
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712901470
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901473
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712901476
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901479
+            },
+            {
+              "litPerMin": 68,
+              "timestamp": 1712901482
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901485
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901488
+            },
+            {
+              "litPerMin": 71,
+              "timestamp": 1712901492
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901495
+            },
+            {
+              "litPerMin": 69,
+              "timestamp": 1712901498
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901501
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901504
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901507
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901510
+            },
+            {
+              "litPerMin": 72,
+              "timestamp": 1712901513
+            },
+            {
+              "litPerMin": 70,
+              "timestamp": 1712901516
+            },
+            {
+              "batteryVolt": 3.761758242,
+              "litPerMin": 46,
+              "timestamp": 1712901519
+            }
+          ]
+        }
+      }
+    }
+  }
+}
