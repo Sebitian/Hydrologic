@@ -1,7 +1,7 @@
 # Hydrologic
 
 ## Demo 
-[MVP](https://github.com/Sebitian/Hydrologic/MVP.jpg)
+![MVP](https://github.com/Sebitian/Hydrologic/MVP.jpg)
 
 
 
