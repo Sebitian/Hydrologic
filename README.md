@@ -2,7 +2,7 @@
 
 ## Demo 
 ![MVP](https://github.com/Sebitian/Hydrologic/blob/main/MVP.jpg)
-![Shower](https://github.com/Sebitian/Hydrologic/blob/main/shower.jpg)
+![Shower](https://github.com/Sebitian/Hydrologic/blob/main/shower.JPG)
 
 
 
